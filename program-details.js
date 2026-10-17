@@ -298,7 +298,7 @@ window.academyProgramDetails = {
       "text": "Our daycare combines care, learning, physical activities, creativity, and social interaction to support the child’s overall development in a happy and supportive environment."
     }
   ],
-  "Computer Training Program": [
+  "Basic Computer Program": [
     {
       "title": "Classes & Duration",
       "text": "We provide 8 classes per month, with each class lasting 1 hour, ensuring consistent practice and progressive development."
