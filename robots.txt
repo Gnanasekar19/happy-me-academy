@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gnanasekar19.github.io/happy-me-academy/sitemap.xml
